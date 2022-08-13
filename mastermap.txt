@@ -1,0 +1,6 @@
+1. layout
+2. nextjs
+3. react components
+4. css
+5. functionality
+6. free database
